@@ -81,3 +81,5 @@ synergies (/grasp_synergy/syn_N) you need to use the latest rqt_ez_publisher
 
 **Publisher:**
 The desired joint state topic must be given.
+
+**GitHub Test**
